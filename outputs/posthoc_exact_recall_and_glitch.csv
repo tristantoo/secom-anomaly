@@ -1,0 +1,5 @@
+model,caught_in_top_k,k,fails,exact_p_vs_random,glitch_runs_in_top_k
+iforest,1,27,27,0.9999999999999994,14
+pca_spe,1,27,27,0.9999999999999994,27
+logistic,0,27,27,0.38677472258008855,16
+spc_rule,2,27,27,0.6436150494300638,13
